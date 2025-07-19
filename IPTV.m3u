@@ -1,0 +1,341 @@
+#EXTM3U
+#EXTINF:0 type="favorites" channelId="-1" logo="http://192.168.0.2:8866/service?method=channel.icon&channel_id=16149", STAR PLUS 4K (IN)
+http://192.168.0.2:8866/live?channel=9002
+#EXTINF:0 type="favorites" channelId="-1" logo="http://192.168.0.2:8866/service?method=channel.icon&channel_id=16150", ZEE TV 4K (IN)
+http://192.168.0.2:8866/live?channel=9003
+#EXTINF:0 type="favorites" channelId="-1" logo="http://192.168.0.2:8866/service?method=channel.icon&channel_id=16151", Colors 4K (IN)
+http://192.168.0.2:8866/live?channel=9004
+#EXTINF:0 type="favorites" channelId="-1", &TV 4K (IN)
+http://192.168.0.2:8866/live?channel=9005
+#EXTINF:0 type="favorites" channelId="-1" logo="http://192.168.0.2:8866/service?method=channel.icon&channel_id=16153", SONY 4K (IN)
+http://192.168.0.2:8866/live?channel=9006
+#EXTINF:0 type="favorites" channelId="-1" logo="http://192.168.0.2:8866/service?method=channel.icon&channel_id=16154", SONY SAB 4K (IN)
+http://192.168.0.2:8866/live?channel=9007
+#EXTINF:0 type="favorites" channelId="-1", STAR Bharat 4K (IN)
+http://192.168.0.2:8866/live?channel=9008
+#EXTINF:0 type="favorites" channelId="-1" logo="http://192.168.0.2:8866/service?method=channel.icon&channel_id=16156", STAR GOLD 4K (IN)
+http://192.168.0.2:8866/live?channel=9009
+#EXTINF:0 type="favorites" channelId="-1" logo="http://192.168.0.2:8866/service?method=channel.icon&channel_id=16157", ZEE Cinema 4K (IN)
+http://192.168.0.2:8866/live?channel=9010
+#EXTINF:0 type="favorites" channelId="-1" logo="http://192.168.0.2:8866/service?method=channel.icon&channel_id=16158", &pictures 4K (IN)
+http://192.168.0.2:8866/live?channel=9011
+#EXTINF:0 type="favorites" channelId="-1" logo="http://192.168.0.2:8866/service?method=channel.icon&channel_id=16159", SONY MAX 4K (IN)
+http://192.168.0.2:8866/live?channel=9012
+#EXTINF:0 type="favorites" channelId="-1" logo="http://192.168.0.2:8866/service?method=channel.icon&channel_id=16160", STAR GOLD Select 4K (IN)
+http://192.168.0.2:8866/live?channel=9013
+#EXTINF:0 type="favorites" channelId="-1" logo="http://192.168.0.2:8866/service?method=channel.icon&channel_id=16161", Colors Cineplex 4K (IN)
+http://192.168.0.2:8866/live?channel=9014
+#EXTINF:0 type="favorites" channelId="-1" logo="http://192.168.0.2:8866/service?method=channel.icon&channel_id=16162", SONY PIX 4K (IN)
+http://192.168.0.2:8866/live?channel=9015
+#EXTINF:0 type="favorites" channelId="-1" logo="http://192.168.0.2:8866/service?method=channel.icon&channel_id=16164", &flix 4K (IN)
+http://192.168.0.2:8866/live?channel=9017
+#EXTINF:0 type="favorites" channelId="-1" logo="http://192.168.0.2:8866/service?method=channel.icon&channel_id=16165", Discovery 4K (IN)
+http://192.168.0.2:8866/live?channel=9018
+#EXTINF:0 type="favorites" channelId="-1" logo="http://192.168.0.2:8866/service?method=channel.icon&channel_id=16166", Animal Planet 4K (IN)
+http://192.168.0.2:8866/live?channel=9019
+#EXTINF:0 type="favorites" channelId="-1", SONY BBC Earth 4K (IN)
+http://192.168.0.2:8866/live?channel=9020
+#EXTINF:0 type="favorites" channelId="-1" logo="http://192.168.0.2:8866/service?method=channel.icon&channel_id=16168", NAT GEO WILD 4K (IN)
+http://192.168.0.2:8866/live?channel=9021
+#EXTINF:0 type="favorites" channelId="-1" logo="http://192.168.0.2:8866/service?method=channel.icon&channel_id=16169", TLC 4K (IN)
+http://192.168.0.2:8866/live?channel=9022
+#EXTINF:0 type="favorites" channelId="-1" logo="http://192.168.0.2:8866/service?method=channel.icon&channel_id=16176", National GEO 4K (IN)
+http://192.168.0.2:8866/live?channel=9029
+#EXTINF:0 type="favorites" channelId="-1" logo="http://192.168.0.2:8866/service?method=channel.icon&channel_id=16191", ZEE CAFE 4K (IN)
+http://192.168.0.2:8866/live?channel=9044
+#EXTINF:0 type="favorites" channelId="-1" logo="http://192.168.0.2:8866/service?method=channel.icon&channel_id=16195", Colors Infinity 4K (IN)
+http://192.168.0.2:8866/live?channel=9048
+#EXTINF:0 type="favorites" channelId="-1", MTV 4K (IN)
+http://192.168.0.2:8866/live?channel=9054
+#EXTINF:0 type="favorites" channelId="-1" name="FOX 4K HD" group="NL" logo="http://192.168.0.2:8866/service?method=channel.icon&channel_id=19162" country="nl", FOX 4K HD
+http://192.168.0.2:8866/live?channel=12021
+#EXTINF:0 type="favorites" channelId="-1" name="Animal Planet 4K HD" group="NL" logo="http://192.168.0.2:8866/service?method=channel.icon&channel_id=19311" country="nl", Animal Planet 4K HD
+http://192.168.0.2:8866/live?channel=12170
+#EXTINF:0 type="favorites" channelId="-1" name="Crime Investigation 4K HD" group="NL" logo="http://192.168.0.2:8866/service?method=channel.icon&channel_id=19314" country="nl", Crime Investigation 4K HD
+http://192.168.0.2:8866/live?channel=12173
+#EXTINF:0 type="favorites" channelId="-1" name="BBC Earth 4K+ HD" group="PL" logo="http://192.168.0.2:8866/service?method=channel.icon&channel_id=13629" country="pl", BBC Earth 4K+ HD
+http://192.168.0.2:8866/live?channel=6482
+#EXTINF:0 type="favorites" channelId="-1" name="ARY Zindagi FHD" group="PAK" logo="http://192.168.0.2:8866/service?method=channel.icon&channel_id=15649" country="pk", ARY Zindagi FHD
+http://192.168.0.2:8866/live?channel=8502
+#EXTINF:0 type="favorites" channelId="-1" name="TV ONE * HD" group="PAK" logo="http://192.168.0.2:8866/service?method=channel.icon&channel_id=15666" country="pk", TV ONE * HD
+http://192.168.0.2:8866/live?channel=8519
+#EXTINF:0 type="favorites" channelId="-1" name="ARY NEWS FHD" group="PAK" logo="http://192.168.0.2:8866/service?method=channel.icon&channel_id=15688" country="pk", ARY NEWS FHD
+http://192.168.0.2:8866/live?channel=8541
+#EXTINF:0 type="favorites" channelId="-1" name="Samaa NEWS HD" group="PAK" logo="http://192.168.0.2:8866/service?method=channel.icon&channel_id=15693" country="pk", Samaa NEWS HD
+http://192.168.0.2:8866/live?channel=8546
+#EXTINF:0 type="favorites" channelId="-1" name="Hum News HD" group="PAK" logo="http://192.168.0.2:8866/service?method=channel.icon&channel_id=15695" country="pk", Hum News HD
+http://192.168.0.2:8866/live?channel=8548
+#EXTINF:0 type="favorites" channelId="-1" name="24 NEWS HD TV" group="PAK" logo="http://192.168.0.2:8866/service?method=channel.icon&channel_id=15696" country="pk", 24 NEWS HD TV
+http://192.168.0.2:8866/live?channel=8549
+#EXTINF:0 type="favorites" channelId="-1" name="AAJ NEWS HD" group="PAK" logo="http://192.168.0.2:8866/service?method=channel.icon&channel_id=15698" country="pk", AAJ NEWS HD
+http://192.168.0.2:8866/live?channel=8551
+#EXTINF:0 type="favorites" channelId="-1" name="GEO NEWS HD" group="PAK" logo="http://192.168.0.2:8866/service?method=channel.icon&channel_id=15689" country="pk", GEO NEWS HD
+http://192.168.0.2:8866/live?channel=8542
+#EXTINF:0 type="favorites" channelId="-1" name="PTV HOME HD" group="PAK" logo="http://192.168.0.2:8866/service?method=channel.icon&channel_id=15664" country="pk", PTV HOME HD
+http://192.168.0.2:8866/live?channel=8517
+#EXTINF:0 type="favorites" channelId="-1" name="Discover Pakistan HD" group="PAK" logo="http://192.168.0.2:8866/service?method=channel.icon&channel_id=15633" country="pk", Discover Pakistan HD
+http://192.168.0.2:8866/live?channel=8486
+#EXTINF:0 type="favorites" channelId="-1" name="Express Entertainment TV HD" group="PAK" logo="http://192.168.0.2:8866/service?method=channel.icon&channel_id=15620" country="pk", Express Entertainment TV HD
+http://192.168.0.2:8866/live?channel=8473
+#EXTINF:0 type="favorites" channelId="-1" name="Hum Masala HD" group="PAK" logo="http://192.168.0.2:8866/service?method=channel.icon&channel_id=15619" country="pk", Hum Masala HD
+http://192.168.0.2:8866/live?channel=8472
+#EXTINF:0 type="favorites" channelId="-1" name="Hum HD TV" group="PAK" logo="http://192.168.0.2:8866/service?method=channel.icon&channel_id=15616" country="pk", Hum HD TV
+http://192.168.0.2:8866/live?channel=8469
+#EXTINF:0 type="favorites" channelId="-1" name="Hum Ent HD" group="PAK" logo="http://192.168.0.2:8866/service?method=channel.icon&channel_id=15617" country="pk", Hum Ent HD
+http://192.168.0.2:8866/live?channel=8470
+#EXTINF:0 type="favorites" channelId="-1" name="GEO ENT HD" group="PAK" logo="http://192.168.0.2:8866/service?method=channel.icon&channel_id=15611" country="pk", GEO ENT HD
+http://192.168.0.2:8866/live?channel=8464
+#EXTINF:0 type="favorites" channelId="-1" name="ARY Digital FHD" group="PAK" logo="http://192.168.0.2:8866/service?method=channel.icon&channel_id=15615" country="pk", ARY Digital FHD
+http://192.168.0.2:8866/live?channel=8468
+#EXTINF:0 type="favorites" channelId="-1" name="Green Entertainment HD" group="PAK" logo="http://192.168.0.2:8866/service?method=channel.icon&channel_id=15638" country="pk", Green Entertainment HD
+http://192.168.0.2:8866/live?channel=8491
+#EXTINF:0 type="favorites" channelId="-1" name="Express NEWS SD" group="PAK" logo="http://192.168.0.2:8866/service?method=channel.icon&channel_id=15707" country="pk", Express NEWS SD
+http://192.168.0.2:8866/live?channel=8560
+#EXTINF:0 type="favorites" channelId="-1" name="A Sports FHD" group="PAK" logo="http://192.168.0.2:8866/service?method=channel.icon&channel_id=15680" country="pk", A Sports FHD
+http://192.168.0.2:8866/live?channel=8533
+#EXTINF:0 type="favorites" channelId="-1" name="PTV Sports FHD" group="PAK" logo="http://192.168.0.2:8866/service?method=channel.icon&channel_id=15683" country="pk", PTV Sports FHD
+http://192.168.0.2:8866/live?channel=8536
+#EXTINF:0 type="favorites" channelId="-1" name="TEN Sports PK  HD" group="PAK" logo="http://192.168.0.2:8866/service?method=channel.icon&channel_id=15685" country="pk", TEN Sports PK  HD
+http://192.168.0.2:8866/live?channel=8538
+#EXTINF:0 type="favorites" channelId="-1" logo="http://192.168.0.2:8866/service?method=channel.icon&channel_id=20951", OSN STAR Movies HD
+http://192.168.0.2:8866/live?channel=13810
+#EXTINF:0 type="favorites" channelId="-1" logo="http://192.168.0.2:8866/service?method=channel.icon&channel_id=20952", OSN STAR World HD
+http://192.168.0.2:8866/live?channel=13811
+#EXTINF:0 type="favorites" channelId="1862" logo="http://192.168.0.2:8866/service?method=channel.icon&channel_id=16400", Star Movies
+http://192.168.0.2:8866/live?channel=9253
+#EXTINF:0 type="favorites" channelId="-1" name="HBO MAX Movies HD" group="US" logo="http://192.168.0.2:8866/service?method=channel.icon&channel_id=8801" country="us", HBO MAX Movies HD
+http://192.168.0.2:8866/live?channel=1654
+#EXTINF:0 type="favorites" channelId="935" name="HBO 2 HD" group="US" logo="http://192.168.0.2:8866/service?method=channel.icon&channel_id=8796" country="us", HBO 2 HD
+http://192.168.0.2:8866/live?channel=1649
+#EXTINF:0 type="favorites" channelId="-1" name="HBO | HD" group="CA" logo="http://192.168.0.2:8866/service?method=channel.icon&channel_id=13436" country="ca", HBO | HD
+http://192.168.0.2:8866/live?channel=6289
+#EXTINF:0 type="favorites" channelId="3185" name="HBO 3 HD" group="AL" logo="http://192.168.0.2:8866/service?method=channel.icon&channel_id=17035" country="al", HBO 3 HD
+http://192.168.0.2:8866/live?channel=9888
+#EXTINF:0 type="favorites" channelId="-1" name="HBO 1 HD" group="PL" logo="http://192.168.0.2:8866/service?method=channel.icon&channel_id=13715" country="pl", HBO 1 HD
+http://192.168.0.2:8866/live?channel=6568
+#EXTINF:0 type="favorites" channelId="2583" name="HBO Signature HD" group="US" logo="http://192.168.0.2:8866/service?method=channel.icon&channel_id=8802" country="us", HBO Signature HD
+http://192.168.0.2:8866/live?channel=1655
+#EXTINF:0 type="favorites" channelId="343" name="MGM HD" group="US" logo="http://192.168.0.2:8866/service?method=channel.icon&channel_id=8811" country="us", MGM HD
+http://192.168.0.2:8866/live?channel=1664
+#EXTINF:0 type="favorites" channelId="-1" name="MGM Drive IN HD" group="US" logo="http://192.168.0.2:8866/service?method=channel.icon&channel_id=8810" country="us", MGM Drive IN HD
+http://192.168.0.2:8866/live?channel=1663
+#EXTINF:0 type="favorites" channelId="-1" name="MGM 2 HD" group="US" logo="http://192.168.0.2:8866/service?method=channel.icon&channel_id=8809" country="us", MGM 2 HD
+http://192.168.0.2:8866/live?channel=1662
+#EXTINF:0 type="favorites" channelId="3545" name="TCM HD" group="CA" logo="http://192.168.0.2:8866/service?method=channel.icon&channel_id=13504" country="ca", TCM HD
+http://192.168.0.2:8866/live?channel=6357
+#EXTINF:0 type="favorites" channelId="-1" logo="http://192.168.0.2:8866/service?method=channel.icon&channel_id=8374", UK: TCM Movies HD
+http://192.168.0.2:8866/live?channel=1227
+#EXTINF:0 type="favorites" channelId="3545" logo="http://192.168.0.2:8866/service?method=channel.icon&channel_id=13118", TCM HD (ES)
+http://192.168.0.2:8866/live?channel=5971
+#EXTINF:0 type="favorites" channelId="-1" name="TCM Cinema HD" group="FR" logo="http://192.168.0.2:8866/service?method=channel.icon&channel_id=12667" country="fr", TCM Cinema HD
+http://192.168.0.2:8866/live?channel=5520
+#EXTINF:0 type="favorites" channelId="2255" logo="http://192.168.0.2:8866/service?method=channel.icon&channel_id=20923", NAT GEO People HD
+http://192.168.0.2:8866/live?channel=13782
+#EXTINF:0 type="favorites" channelId="-1" logo="http://192.168.0.2:8866/service?method=channel.icon&channel_id=8415", UK: NAT GEO People HD
+http://192.168.0.2:8866/live?channel=1268
+#EXTINF:0 type="favorites" channelId="-1" logo="http://192.168.0.2:8866/service?method=channel.icon&channel_id=16316", EPIC HD (IN)
+http://192.168.0.2:8866/live?channel=9169
+#EXTINF:0 type="favorites" channelId="4439" name="Travelxp HD" group="PT" logo="http://192.168.0.2:8866/service?method=channel.icon&channel_id=14019" country="pt", Travelxp HD
+http://192.168.0.2:8866/live?channel=6872
+#EXTINF:0 type="favorites" channelId="-1" logo="http://192.168.0.2:8866/service?method=channel.icon&channel_id=16358", Travel XP Hindi HD (IN)
+http://192.168.0.2:8866/live?channel=9211
+#EXTINF:0 type="favorites" channelId="-1" name="Travel Escape HD" group="CA" logo="http://192.168.0.2:8866/service?method=channel.icon&channel_id=13321" country="ca", Travel Escape HD
+http://192.168.0.2:8866/live?channel=6174
+#EXTINF:0 type="favorites" channelId="-1" name="Hallmark Channel HD" group="US" logo="http://192.168.0.2:8866/service?method=channel.icon&channel_id=8788" country="us", Hallmark Channel HD
+http://192.168.0.2:8866/live?channel=1641
+#EXTINF:0 type="favorites" channelId="-1" name="Hallmark Movies HD" group="US" logo="http://192.168.0.2:8866/service?method=channel.icon&channel_id=8794" country="us", Hallmark Movies HD
+http://192.168.0.2:8866/live?channel=1647
+#EXTINF:0 type="favorites" channelId="-1" logo="http://192.168.0.2:8866/service?method=channel.icon&channel_id=10259", DSTV: M-Net Movies 4 HD
+http://192.168.0.2:8866/live?channel=3112
+#EXTINF:0 type="favorites" channelId="-1" logo="http://192.168.0.2:8866/service?method=channel.icon&channel_id=10258", DSTV: M-Net Movies 3  HD
+http://192.168.0.2:8866/live?channel=3111
+#EXTINF:0 type="favorites" channelId="-1" logo="http://192.168.0.2:8866/service?method=channel.icon&channel_id=16396", Star Utsav Movies
+http://192.168.0.2:8866/live?channel=9249
+#EXTINF:0 type="favorites" channelId="-1" logo="http://192.168.0.2:8866/service?method=channel.icon&channel_id=16328", STAR Utsav HD (IN)
+http://192.168.0.2:8866/live?channel=9181
+#EXTINF:0 type="favorites" channelId="-1" logo="http://192.168.0.2:8866/service?method=channel.icon&channel_id=16405", Star Gold Thrills
+http://192.168.0.2:8866/live?channel=9258
+#EXTINF:0 type="favorites" channelId="-1" logo="http://192.168.0.2:8866/service?method=channel.icon&channel_id=16406", Star Gold 2
+http://192.168.0.2:8866/live?channel=9259
+#EXTINF:0 type="favorites" channelId="-1" logo="http://192.168.0.2:8866/service?method=channel.icon&channel_id=16341", Discovery Channel Hindi HD (IN)
+http://192.168.0.2:8866/live?channel=9194
+#EXTINF:0 type="favorites" channelId="1508" logo="http://192.168.0.2:8866/service?method=channel.icon&channel_id=16342", Discovery Science HD (IN)
+http://192.168.0.2:8866/live?channel=9195
+#EXTINF:0 type="favorites" channelId="2840" logo="http://192.168.0.2:8866/service?method=channel.icon&channel_id=16343", Discovery Turbo HD (IN)
+http://192.168.0.2:8866/live?channel=9196
+#EXTINF:0 type="favorites" channelId="3770" logo="http://192.168.0.2:8866/service?method=channel.icon&channel_id=16348", Investigation Discovery HD (IN)
+http://192.168.0.2:8866/live?channel=9201
+#EXTINF:0 type="favorites" channelId="-1" name="Discovery World FHD" group="NL" logo="http://192.168.0.2:8866/service?method=channel.icon&channel_id=19323" country="nl", Discovery World FHD
+http://192.168.0.2:8866/live?channel=12182
+#EXTINF:0 type="favorites" channelId="-1" logo="http://192.168.0.2:8866/service?method=channel.icon&channel_id=8424", UK: SKY Discovery Turbo HD
+http://192.168.0.2:8866/live?channel=1277
+#EXTINF:0 type="favorites" channelId="-1" logo="http://192.168.0.2:8866/service?method=channel.icon&channel_id=8422", UK: SKY Discovery History HD
+http://192.168.0.2:8866/live?channel=1275
+#EXTINF:0 type="favorites" channelId="-1" logo="http://192.168.0.2:8866/service?method=channel.icon&channel_id=16347", History 18 Hindi HD (IN)
+http://192.168.0.2:8866/live?channel=9200
+#EXTINF:0 type="favorites" channelId="-1" logo="http://192.168.0.2:8866/service?method=channel.icon&channel_id=16190", History TV 18 (IN)
+http://192.168.0.2:8866/live?channel=9043
+#EXTINF:0 type="favorites" channelId="-1" name="History HD 4K" group="NL" logo="http://192.168.0.2:8866/service?method=channel.icon&channel_id=19325" country="nl", History HD 4K
+http://192.168.0.2:8866/live?channel=12184
+#EXTINF:0 type="favorites" channelId="1456" name="History HD" group="SR" logo="http://192.168.0.2:8866/service?method=channel.icon&channel_id=18452" country="sr", History HD
+http://192.168.0.2:8866/live?channel=11311
+#EXTINF:0 type="favorites" channelId="-1" logo="http://192.168.0.2:8866/service?method=channel.icon&channel_id=20934", OSN History 2 HD
+http://192.168.0.2:8866/live?channel=13793
+#EXTINF:0 type="favorites" channelId="-1" logo="http://192.168.0.2:8866/service?method=channel.icon&channel_id=8408", UK: History 2 FHD
+http://192.168.0.2:8866/live?channel=1261
+#EXTINF:0 type="favorites" channelId="-1" logo="http://192.168.0.2:8866/service?method=channel.icon&channel_id=16181", STAR Sports Select 1 4K (IN)
+http://192.168.0.2:8866/live?channel=9034
+#EXTINF:0 type="favorites" channelId="-1" logo="http://192.168.0.2:8866/service?method=channel.icon&channel_id=16192", STAR Sports 2 4K (IN)
+http://192.168.0.2:8866/live?channel=9045
+#EXTINF:0 type="favorites" channelId="-1" logo="http://192.168.0.2:8866/service?method=channel.icon&channel_id=7227", PSL: PTV Sports B2
+http://192.168.0.2:8866/live?channel=80
+#EXTINF:0 type="favorites" channelId="-1" logo="http://192.168.0.2:8866/service?method=channel.icon&channel_id=7226", PSL: PTV Sports B1
+http://192.168.0.2:8866/live?channel=79
+#EXTINF:0 type="favorites" channelId="-1" logo="http://192.168.0.2:8866/service?method=channel.icon&channel_id=7228", PSL: A Sports B1
+http://192.168.0.2:8866/live?channel=81
+#EXTINF:0 type="favorites" channelId="-1", PSL: Sky Sports
+http://192.168.0.2:8866/live?channel=83
+#EXTINF:0 type="favorites" channelId="-1" logo="http://192.168.0.2:8866/service?method=channel.icon&channel_id=7231", PSL: Willow Cricket
+http://192.168.0.2:8866/live?channel=84
+#EXTINF:0 type="favorites" channelId="-1" logo="http://192.168.0.2:8866/service?method=channel.icon&channel_id=7232", PSL: SuperSports Cricket
+http://192.168.0.2:8866/live?channel=85
+#EXTINF:0 type="favorites" channelId="-1" logo="http://192.168.0.2:8866/service?method=channel.icon&channel_id=14561", DSTV : Supersport PSL HD
+http://192.168.0.2:8866/live?channel=7414
+#EXTINF:0 type="favorites" channelId="-1" logo="http://192.168.0.2:8866/service?method=channel.icon&channel_id=10227", DStv | SuperSport PSLⓧ
+http://192.168.0.2:8866/live?channel=3080
+#EXTINF:0 type="favorites" channelId="-1" logo="http://192.168.0.2:8866/service?method=channel.icon&channel_id=14913", Astro Cricket HD
+http://192.168.0.2:8866/live?channel=7766
+#EXTINF:0 type="favorites" channelId="-1" name="Willow Cricket 4K HD" group="US" logo="http://192.168.0.2:8866/service?method=channel.icon&channel_id=8689" country="us", Willow Cricket 4K HD
+http://192.168.0.2:8866/live?channel=1542
+#EXTINF:0 type="favorites" channelId="-1" logo="http://192.168.0.2:8866/service?method=channel.icon&channel_id=14900", TEN Cricket HD
+http://192.168.0.2:8866/live?channel=7753
+#EXTINF:0 type="favorites" channelId="-1" logo="http://192.168.0.2:8866/service?method=channel.icon&channel_id=14907", Sky Sports Cricket - B1
+http://192.168.0.2:8866/live?channel=7760
+#EXTINF:0 type="favorites" channelId="-1" logo="http://192.168.0.2:8866/service?method=channel.icon&channel_id=8301", UK: SKY Sports Cricket FHD
+http://192.168.0.2:8866/live?channel=1154
+#EXTINF:0 type="favorites" channelId="-1" logo="http://192.168.0.2:8866/service?method=channel.icon&channel_id=14902", Willow Extra HD
+http://192.168.0.2:8866/live?channel=7755
+#EXTINF:0 type="favorites" channelId="-1" name="GEO Kahani HD" group="PAK" logo="http://192.168.0.2:8866/service?method=channel.icon&channel_id=15652" country="pk", GEO Kahani HD
+http://192.168.0.2:8866/live?channel=8505
+#EXTINF:0 type="favorites" channelId="3237" name="Geo Television HD" group="DE" logo="http://192.168.0.2:8866/service?method=channel.icon&channel_id=10748" country="de", Geo Television HD
+http://192.168.0.2:8866/live?channel=3601
+#EXTINF:0 type="favorites" channelId="-1" logo="http://192.168.0.2:8866/service?method=channel.icon&channel_id=14890", GEO Super HD
+http://192.168.0.2:8866/live?channel=7743
+#EXTINF:0 type="favorites" channelId="-1" logo="http://192.168.0.2:8866/service?method=channel.icon&channel_id=8391", UK: SKY BBC NEWS HD
+http://192.168.0.2:8866/live?channel=1244
+#EXTINF:0 type="favorites" channelId="-1" logo="http://192.168.0.2:8866/service?method=channel.icon&channel_id=8385", UK: CNN HD
+http://192.168.0.2:8866/live?channel=1238
+#EXTINF:0 type="favorites" channelId="-1" logo="http://192.168.0.2:8866/service?method=channel.icon&channel_id=8392", UK: SKY NEWS HD
+http://192.168.0.2:8866/live?channel=1245
+#EXTINF:0 type="favorites" channelId="-1" logo="http://192.168.0.2:8866/service?method=channel.icon&channel_id=8377", UK: AL Jazeera NEWS English HD
+http://192.168.0.2:8866/live?channel=1230
+#EXTINF:0 type="favorites" channelId="-1" name="Makkah HD TV" group="IS" logo="http://192.168.0.2:8866/service?method=channel.icon&channel_id=12012" country="is", Makkah HD TV
+http://192.168.0.2:8866/live?channel=4865
+#EXTINF:0 type="favorites" channelId="-1" name="MEDINE TV" group="TR" logo="http://192.168.0.2:8866/service?method=channel.icon&channel_id=15072" country="tr", MEDINE TV
+http://192.168.0.2:8866/live?channel=7925
+#EXTINF:0 type="favorites" channelId="-1" name="Peace TV English HD" group="IS" logo="http://192.168.0.2:8866/service?method=channel.icon&channel_id=12014" country="is", Peace TV English HD
+http://192.168.0.2:8866/live?channel=4867
+#EXTINF:0 type="favorites" channelId="2246" name="AXN HD" group="PT" logo="http://192.168.0.2:8866/service?method=channel.icon&channel_id=13908" country="pt", AXN HD
+http://192.168.0.2:8866/live?channel=6761
+#EXTINF:0 type="favorites" channelId="-1" name="AXN Movies FHD" group="PT" logo="http://192.168.0.2:8866/service?method=channel.icon&channel_id=13909" country="pt", AXN Movies FHD
+http://192.168.0.2:8866/live?channel=6762
+#EXTINF:0 type="favorites" channelId="-1" name="AXN FHD" group="PT" logo="http://192.168.0.2:8866/service?method=channel.icon&channel_id=13907" country="pt", AXN FHD
+http://192.168.0.2:8866/live?channel=6760
+#EXTINF:0 type="favorites" channelId="-1" name="AXN Movies HD" group="PT" logo="http://192.168.0.2:8866/service?method=channel.icon&channel_id=13910" country="pt", AXN Movies HD
+http://192.168.0.2:8866/live?channel=6763
+#EXTINF:0 type="favorites" channelId="-1" name="AXN White FHD" group="PT" logo="http://192.168.0.2:8866/service?method=channel.icon&channel_id=13911" country="pt", AXN White FHD
+http://192.168.0.2:8866/live?channel=6764
+#EXTINF:0 type="favorites" channelId="3131" name="AXN WHITE HD" group="PT" logo="http://192.168.0.2:8866/service?method=channel.icon&channel_id=13912" country="pt", AXN WHITE HD
+http://192.168.0.2:8866/live?channel=6765
+#EXTINF:0 type="favorites" channelId="3130" name="AXN Black  HD" group="RO" logo="http://192.168.0.2:8866/service?method=channel.icon&channel_id=19620" country="ro", AXN Black  HD
+http://192.168.0.2:8866/live?channel=12479
+#EXTINF:0 type="favorites" channelId="-1" logo="http://192.168.0.2:8866/service?method=channel.icon&channel_id=16290", Cartoon Network English HD (IN)
+http://192.168.0.2:8866/live?channel=9143
+#EXTINF:0 type="favorites" channelId="-1" logo="http://192.168.0.2:8866/service?method=channel.icon&channel_id=16291", Cartoon Network Hindi HD (IN)
+http://192.168.0.2:8866/live?channel=9144
+#EXTINF:0 type="favorites" channelId="-1" logo="http://192.168.0.2:8866/service?method=channel.icon&channel_id=16298", POGO HD (IN)
+http://192.168.0.2:8866/live?channel=9151
+#EXTINF:0 type="favorites" channelId="-1", &prive 4K (IN)
+http://192.168.0.2:8866/live?channel=9040
+#EXTINF:0 type="favorites" channelId="-1" logo="http://192.168.0.2:8866/service?method=channel.icon&channel_id=16462", & Xplor
+http://192.168.0.2:8866/live?channel=9315
+#EXTINF:0 type="favorites" channelId="-1" logo="http://192.168.0.2:8866/service?method=channel.icon&channel_id=16465", & pictures
+http://192.168.0.2:8866/live?channel=9318
+#EXTINF:0 type="favorites" channelId="-1" logo="http://192.168.0.2:8866/service?method=channel.icon&channel_id=16466", & flix
+http://192.168.0.2:8866/live?channel=9319
+#EXTINF:0 type="favorites" channelId="-1" logo="http://192.168.0.2:8866/service?method=channel.icon&channel_id=8501", UK: SONY Movies Action HD
+http://192.168.0.2:8866/live?channel=1354
+#EXTINF:0 type="favorites" channelId="-1" logo="http://192.168.0.2:8866/service?method=channel.icon&channel_id=8499", UK: SONY MAX 2 HD
+http://192.168.0.2:8866/live?channel=1352
+#EXTINF:0 type="favorites" channelId="-1" name="SONY AXN FHD" group="DE" logo="http://192.168.0.2:8866/service?method=channel.icon&channel_id=11009" country="de", SONY AXN FHD
+http://192.168.0.2:8866/live?channel=3862
+#EXTINF:0 type="favorites" channelId="-1" name="SONY Channel FHD" group="DE" logo="http://192.168.0.2:8866/service?method=channel.icon&channel_id=11010" country="de", SONY Channel FHD
+http://192.168.0.2:8866/live?channel=3863
+#EXTINF:0 type="favorites" channelId="-1" name="SONY TEN 1 HD" group="CRI" logo="http://192.168.0.2:8866/service?method=channel.icon&channel_id=14558" country="cr", SONY TEN 1 HD
+http://192.168.0.2:8866/live?channel=7411
+#EXTINF:0 type="favorites" channelId="-1" name="SONY TEN 2 HD" group="CRI" logo="http://192.168.0.2:8866/service?method=channel.icon&channel_id=14559" country="cr", SONY TEN 2 HD
+http://192.168.0.2:8866/live?channel=7412
+#EXTINF:0 type="favorites" channelId="-1" logo="http://192.168.0.2:8866/service?method=channel.icon&channel_id=14851", SONY TEN 1 HD
+http://192.168.0.2:8866/live?channel=7704
+#EXTINF:0 type="favorites" channelId="-1" logo="http://192.168.0.2:8866/service?method=channel.icon&channel_id=14911", SONY SIX HD
+http://192.168.0.2:8866/live?channel=7764
+#EXTINF:0 type="favorites" channelId="-1" logo="http://192.168.0.2:8866/service?method=channel.icon&channel_id=14912", SONY TEN 2 HD
+http://192.168.0.2:8866/live?channel=7765
+#EXTINF:0 type="favorites" channelId="-1" logo="http://192.168.0.2:8866/service?method=channel.icon&channel_id=16226", SONY TEN 3 FHD (IN)
+http://192.168.0.2:8866/live?channel=9079
+#EXTINF:0 type="favorites" channelId="-1" logo="http://192.168.0.2:8866/service?method=channel.icon&channel_id=16227", SONY TEN 3 HD (IN)
+http://192.168.0.2:8866/live?channel=9080
+#EXTINF:0 type="favorites" channelId="-1" logo="http://192.168.0.2:8866/service?method=channel.icon&channel_id=16409", Sony Wah
+http://192.168.0.2:8866/live?channel=9262
+#EXTINF:0 type="favorites" channelId="-1" logo="http://192.168.0.2:8866/service?method=channel.icon&channel_id=16411", Sony Six
+http://192.168.0.2:8866/live?channel=9264
+#EXTINF:0 type="favorites" channelId="-1" logo="http://192.168.0.2:8866/service?method=channel.icon&channel_id=16414", Sony Pal
+http://192.168.0.2:8866/live?channel=9267
+#EXTINF:0 type="favorites" channelId="-1" logo="http://192.168.0.2:8866/service?method=channel.icon&channel_id=16222", SONY TEN 1 FHD (IN)
+http://192.168.0.2:8866/live?channel=9075
+#EXTINF:0 type="favorites" channelId="-1" logo="http://192.168.0.2:8866/service?method=channel.icon&channel_id=16224", SONY TEN 2 FHD (IN)
+http://192.168.0.2:8866/live?channel=9077
+#EXTINF:0 type="favorites" channelId="-1" logo="http://192.168.0.2:8866/service?method=channel.icon&channel_id=16171", STAR Sports 1 4K (IN)
+http://192.168.0.2:8866/live?channel=9024
+#EXTINF:0 type="favorites" channelId="-1" logo="http://192.168.0.2:8866/service?method=channel.icon&channel_id=7216", Star Sports 1 Hindi B1
+http://192.168.0.2:8866/live?channel=69
+#EXTINF:0 type="favorites" channelId="-1" logo="http://192.168.0.2:8866/service?method=channel.icon&channel_id=7217", Star Sports 1 Hindi B2
+http://192.168.0.2:8866/live?channel=70
+#EXTINF:0 type="favorites" channelId="-1" logo="http://192.168.0.2:8866/service?method=channel.icon&channel_id=16170", STAR Sports 1 Hindi 4K (IN)
+http://192.168.0.2:8866/live?channel=9023
+#EXTINF:0 type="favorites" channelId="-1" logo="http://192.168.0.2:8866/service?method=channel.icon&channel_id=16194", STAR Sports Select 2 4K (IN)
+http://192.168.0.2:8866/live?channel=9047
+#EXTINF:0 type="favorites" channelId="-1" logo="http://192.168.0.2:8866/service?method=channel.icon&channel_id=16229", STAR Sports 1 HD (1080) (IN)
+http://192.168.0.2:8866/live?channel=9082
+#EXTINF:0 type="favorites" channelId="-1" logo="http://192.168.0.2:8866/service?method=channel.icon&channel_id=16231", STAR Sports 2 FHD (IN)
+http://192.168.0.2:8866/live?channel=9084
+#EXTINF:0 type="favorites" channelId="-1" logo="http://192.168.0.2:8866/service?method=channel.icon&channel_id=16234", STAR Sports 3 HD (IN)
+http://192.168.0.2:8866/live?channel=9087
+#EXTINF:0 type="favorites" channelId="-1" logo="http://192.168.0.2:8866/service?method=channel.icon&channel_id=16235", STAR Sports Select 1 HD (IN)
+http://192.168.0.2:8866/live?channel=9088
+#EXTINF:0 type="favorites" channelId="-1" logo="http://192.168.0.2:8866/service?method=channel.icon&channel_id=16236", STAR Sports Select 2 HD (IN)
+http://192.168.0.2:8866/live?channel=9089
+#EXTINF:0 type="favorites" channelId="-1" logo="http://192.168.0.2:8866/service?method=channel.icon&channel_id=14809", FOX Sport 501 HD
+http://192.168.0.2:8866/live?channel=7662
+#EXTINF:0 type="favorites" channelId="3761" name="FXM HD" group="US" logo="http://192.168.0.2:8866/service?method=channel.icon&channel_id=8785" country="us", FXM HD
+http://192.168.0.2:8866/live?channel=1638
+#EXTINF:0 type="favorites" channelId="3225" name="Showtime Women HD" group="US" logo="http://192.168.0.2:8866/service?method=channel.icon&channel_id=8819" country="us", Showtime Women HD
+http://192.168.0.2:8866/live?channel=1672
+#EXTINF:0 type="favorites" channelId="-1" name="Showtime 2 WEST HD" group="US" logo="http://192.168.0.2:8866/service?method=channel.icon&channel_id=9144" country="us", Showtime 2 WEST HD
+http://192.168.0.2:8866/live?channel=1997
+#EXTINF:0 type="favorites" channelId="3221" name="Showtime Beyond HD" group="US" logo="http://192.168.0.2:8866/service?method=channel.icon&channel_id=9145" country="us", Showtime Beyond HD
+http://192.168.0.2:8866/live?channel=1998
+#EXTINF:0 type="favorites" channelId="-1" name="Showtime EAST FHD" group="US" logo="http://192.168.0.2:8866/service?method=channel.icon&channel_id=9146" country="us", Showtime EAST FHD
+http://192.168.0.2:8866/live?channel=1999
+#EXTINF:0 type="favorites" channelId="-1" name="Showtime Extreme HD" group="US" logo="http://192.168.0.2:8866/service?method=channel.icon&channel_id=9148" country="us", Showtime Extreme HD
+http://192.168.0.2:8866/live?channel=2001
+#EXTINF:0 type="favorites" channelId="-1" name="Showtime Family ZONE FHD" group="US" logo="http://192.168.0.2:8866/service?method=channel.icon&channel_id=9149" country="us", Showtime Family ZONE FHD
+http://192.168.0.2:8866/live?channel=2002
+#EXTINF:0 type="favorites" channelId="-1" name="Showtime NEXT EAST HD" group="US" logo="http://192.168.0.2:8866/service?method=channel.icon&channel_id=9150" country="us", Showtime NEXT EAST HD
+http://192.168.0.2:8866/live?channel=2003
+#EXTINF:0 type="favorites" channelId="-1" name="Showtime WEST FHD" group="US" logo="http://192.168.0.2:8866/service?method=channel.icon&channel_id=9154" country="us", Showtime WEST FHD
+http://192.168.0.2:8866/live?channel=2007
+#EXTINF:0 type="favorites" channelId="-1" name="Showtime Showcase HD" group="US" logo="http://192.168.0.2:8866/service?method=channel.icon&channel_id=9153" country="us", Showtime Showcase HD
+http://192.168.0.2:8866/live?channel=2006
+#EXTINF:0 type="favorites" channelId="-1" name="AAJ Entertainment HD" group="PAK" logo="http://192.168.0.2:8866/service?method=channel.icon&channel_id=15625" country="pk",  AAJ Entertainment HD
+http://192.168.0.2:8866/live?channel=8478
